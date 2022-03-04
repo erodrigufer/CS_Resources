@@ -14,3 +14,7 @@ A centralized personal compendium of computer science resources.
 
 ## Concurrency
 * [Scheduling In Go : Part I - OS Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html): Description of how an OS scheduler works with multiple threads and the performance challenges faced by a multi-threaded program. [_William Kennedy_]
+
+## SaaS
+### Pricing
+* [Pricing low touch SaaS](https://stripe.com/en-gb-de/atlas/guides/saas-pricing)
