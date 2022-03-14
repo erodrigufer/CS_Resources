@@ -5,6 +5,9 @@ A centralized personal compendium of computer science resources.
 ### Design patterns
 * [Why is Global State so Evil?](https://softwareengineering.stackexchange.com/questions/148108/why-is-global-state-so-evil): A discussion with in-depth argumentation against writing code/functions that depend on _global state_. 
 
+### Developer productivity
+* [Fire and motion](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/): The struggle with developer productivity in a nutshell. [_Joel Spolsky_]
+
 ## Design
 ### UI
 * [Why Japanese web design is so... different](https://randomwire.com/why-japanese-web-design-is-so-different/): An explanation about the cultural differences and the socio-technological context that makes some big Japanese web sites feel so different, like if they stayed behind within the web design paradigms of the 90s.
