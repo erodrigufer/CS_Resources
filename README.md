@@ -14,6 +14,10 @@ A centralized personal compendium of computer science resources.
 
 ## Sysadmin
 * [Cron best practices](https://blog.sanctum.geek.nz/cron-best-practices/): Best practices to manage and setup cronjobs in a secure way, e.g. periodically monitoring a web service with a cron job.
+* [Land chad's guide to setting up a webserver](https://landchad.net/domain): Step by step guide by Luke Smith on how to setup a server, its domain, firewall, etc... [_Luke Smith_]
+
+### Networking
+* [Using UFW as a Firewall](https://landchad.net/ufw): Very minimalistic/simple guide to configure UFW on a server. [_Luke Smith_]
 
 ## Observability
 * [Logging v. instrumentation](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html): Difference between logging and instrumentation, best practices for both. [_Peter Bourgon_]
