@@ -41,6 +41,9 @@ A centralized personal compendium of computer science resources.
 ## Databases
 * [How does database indexing work?](https://stackoverflow.com/questions/1108/how-does-database-indexing-work): Stackoverflow discussion about how database indexing works and why it is useful. It provides other links to other threads discussing the same topic.
 
+### SQL
+* [Animate SQL](https://animatesql.com/): Animated web resource to better the functionality of SQL commands in a graphical way.
+
 ## SaaS
 ### Pricing
 * [Pricing low touch SaaS](https://stripe.com/en-gb-de/atlas/guides/saas-pricing)
