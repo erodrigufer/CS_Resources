@@ -9,7 +9,7 @@ A centralized personal compendium of computer science resources.
 * [Fire and motion](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/): The struggle with developer productivity in a nutshell. [_Joel Spolsky_]
 
 ### Git
-* [Fortunately I don't squash my git commits](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/): A long bug hunting journey as a testament to not squashing commits.
+* [Fortunately I don't squash my git commits](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/): A long bug hunting journey as a testament to not squashing commits. [_Mark Seemann_]
 
 ## Web development
 ### HTTP(S)
@@ -49,3 +49,10 @@ A centralized personal compendium of computer science resources.
 ## SaaS
 ### Pricing
 * [Pricing low touch SaaS](https://stripe.com/en-gb-de/atlas/guides/saas-pricing)
+
+## Security
+### Malware
+* [Malware targetting AWS Lambda](https://www.cadosecurity.com/cado-discovers-denonia-the-first-malware-specifically-targeting-lambda/): A malware written in Go that targets AWS Lambda functions.
+
+## Academia
+* [You should be reading academic CS papers](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/): A Stackoverflow blog post recommending resources to get access to good academic computer science papers. [_Stackoverflow Blog_]
