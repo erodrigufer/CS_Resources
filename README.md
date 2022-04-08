@@ -8,6 +8,8 @@ A centralized personal compendium of computer science resources.
 ### Developer productivity
 * [Fire and motion](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/): The struggle with developer productivity in a nutshell. [_Joel Spolsky_]
 
+### Git
+* [Fortunately I don't squash my git commits](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/): A long bug hunting journey as a testament to not squashing commits.
 
 ## Web development
 ### HTTP(S)
