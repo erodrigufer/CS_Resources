@@ -49,9 +49,10 @@ A centralized personal compendium of computer science resources.
 ### SQL
 * [Animate SQL](https://animatesql.com/): Animated web resource to better the functionality of SQL commands in a graphical way.
 
-## SaaS
+## SaaS/Business
 ### Pricing
 * [Pricing low touch SaaS](https://stripe.com/en-gb-de/atlas/guides/saas-pricing)
+* [Profit sharing](https://paul.copplest.one/blog/profit-sharing.html): A rather unorthodox approach to profit sharing in a private company. [_Paul Copplestone_]
 
 ## Security
 ### Malware
