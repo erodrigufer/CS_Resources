@@ -11,7 +11,13 @@ A centralized personal compendium of computer science resources.
 ### Git
 * [Fortunately I don't squash my git commits](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/): A long bug hunting journey as a testament to not squashing commits. [_Mark Seemann_]
 
+### Regex
+* [Regex cheatsheet](https://paul.copplest.one/knowledge/tech/regex.html): Paul Copplestone's **regex cheatsheet** [_Paul Copplestone_]
+
 ## Web development
+### HTML
+* [HTML cheatsheet](https://paul.copplest.one/knowledge/tech/html-cheatsheet.html): Paul Copplestone's HTML cheatsheet [_Paul Copplestone_]
+
 ### HTTP(S)
 * [Conditional HTTP GET: The fastest requests need no response body](https://ieftimov.com/post/conditional-http-get-fastest-requests-need-no-response-body/): Handling server content update with ETags and Last-Modified _header fields_ in order to generate user-agent content caching [_Ilija Eftimov_]
 * [Decrypting your own HTTPS traffic with Wireshark](https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/): Properly configuring Wireshark with the keys to decrypt local HTTPS traffic fow debugging and hacking
@@ -33,6 +39,8 @@ A centralized personal compendium of computer science resources.
 ### Networking
 * [Using UFW as a Firewall](https://landchad.net/ufw): Very minimalistic/simple guide to configure UFW on a server. [_Luke Smith_]
 
+### Containers
+* [Docker cheatshett](https://paul.copplest.one/knowledge/tech/docker.html): Docker cheatsheet [_Paul Copplestone_]
 
 ### OS
 * [Choosing between FreeBSD and OpenBSD](https://unixsheikh.com/articles/choosing-between-openbsd-and-freebsd.html): Reasoning behind choosing between FreeBSD or OpenBSD [_Unix Sheikh_]
@@ -45,6 +53,7 @@ A centralized personal compendium of computer science resources.
 
 ## Databases
 * [How does database indexing work?](https://stackoverflow.com/questions/1108/how-does-database-indexing-work): Stackoverflow discussion about how database indexing works and why it is useful. It provides other links to other threads discussing the same topic.
+* [PostgreSQL cheatsheet](https://paul.copplest.one/knowledge/tech/postgresql.html): PostgreSQL cheatsheet [_Paul Copplestone_]
 
 ### SQL
 * [Animate SQL](https://animatesql.com/): Animated web resource to better the functionality of SQL commands in a graphical way.
