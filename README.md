@@ -15,15 +15,20 @@ A centralized personal compendium of computer science resources.
 	- [Security](#security)
 * [Design](#design)
 	- [UI](#ui)
-* [Sysadmin](#sysadmin)
-	- [FreeBSD](#freebsd)
+* [FreeBSD sysadmin](#freebsd-sysadmin)
+	- [Daemons](#daemons)
+	- [Monitoring](#monitoring)
 	- [Networking](#networking)
+	- [SSH](#ssh)
+	- [Databases](#databases)
+* [General sysadmin](#general-sysadmin)
+	- [Networking](#networking-1)
 	- [Containers](#containers)
 	- [OS](#os)
 * [Unix](#unix)
 * [Observability](#observability)
 * [Concurrency](#concurrency)
-* [Databases](#databases)
+* [Databases](#databases-1)
 	- [SQL](#sql)
 * [SaaS/Business](#saasbusiness)
 	- [Pricing](#pricing)
@@ -59,13 +64,24 @@ A centralized personal compendium of computer science resources.
 ### UI
 * [Why Japanese web design is so... different](https://randomwire.com/why-japanese-web-design-is-so-different/): An explanation about the cultural differences and the socio-technological context that makes some big Japanese web sites feel so different, like if they stayed behind within the web design paradigms of the 90s.
 
-## Sysadmin
+## FreeBSD sysadmin
+### Daemons
+* [Supervised FreeBSD rc.d script for a Go daemon](https://redbyte.eu/en/blog/supervised-freebsd-init-script-for-go-deamon/): Run a go program as a supervised daemon in FreeBSD.
+### Monitoring
+* [FreeBSD Install Logwatch Tool For Log Analysis and Monitoring](https://www.cyberciti.biz/faq/freebsd-unix-log-analyzer-configuration/): Tutorial on how to install and setup _Logwatch_ to get daily logs' analysis through emails.
+
+### Networking
+* [Check open ports on FreeBSD](https://linuxhint.com/check-open-ports-freebsd/): _sockstat_ command
+
+### SSH
+* [How to configure ssh key authentication on FreeBSD](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-freebsd-server)
+
+### Databases
+* [How to install MariaDB on FreeBSD](https://www.osradar.com/how-to-install-mariadb-on-freebsd-12/)
+
+## General sysadmin
 * [Cron best practices](https://blog.sanctum.geek.nz/cron-best-practices/): Best practices to manage and setup cronjobs in a secure way, e.g. periodically monitoring a web service with a cron job.
 * [Land chad's guide to setting up a webserver](https://landchad.net/domain): Step by step guide by Luke Smith on how to setup a server, its domain, firewall, etc... [_Luke Smith_]
-
-### FreeBSD
-* [Supervised FreeBSD rc.d script for a Go daemon](https://redbyte.eu/en/blog/supervised-freebsd-init-script-for-go-deamon/): Run a go program as a supervised daemon in FreeBSD.
-* [FreeBSD Install Logwatch Tool For Log Analysis and Monitoring](https://www.cyberciti.biz/faq/freebsd-unix-log-analyzer-configuration/): Tutorial on how to install and setup _Logwatch_ to get daily logs' analysis through emails.
 
 ### Networking
 * [Using UFW as a Firewall](https://landchad.net/ufw): Very minimalistic/simple guide to configure UFW on a server. [_Luke Smith_]
