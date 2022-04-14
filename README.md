@@ -1,6 +1,37 @@
 # CS Compendium
 A centralized personal compendium of computer science resources.
 
+# Table of contents
+<!-- vim-markdown-toc GFM -->
+
+* [Software engineering](#software-engineering)
+	- [Design patterns](#design-patterns)
+	- [Developer productivity](#developer-productivity)
+	- [Git](#git)
+	- [Regex](#regex)
+* [Web development](#web-development)
+	- [HTML](#html)
+	- [HTTP(S)](#https)
+	- [Security](#security)
+* [Design](#design)
+	- [UI](#ui)
+* [Sysadmin](#sysadmin)
+	- [FreeBSD](#freebsd)
+	- [Networking](#networking)
+	- [Containers](#containers)
+	- [OS](#os)
+* [Unix](#unix)
+* [Observability](#observability)
+* [Concurrency](#concurrency)
+* [Databases](#databases)
+	- [SQL](#sql)
+* [SaaS/Business](#saasbusiness)
+	- [Pricing](#pricing)
+* [Security](#security-1)
+	- [Malware](#malware)
+* [Academia](#academia)
+
+<!-- vim-markdown-toc -->
 ## Software engineering
 ### Design patterns
 * [Why is Global State so Evil?](https://softwareengineering.stackexchange.com/questions/148108/why-is-global-state-so-evil): A discussion with in-depth argumentation against writing code/functions that depend on _global state_. 
@@ -44,6 +75,9 @@ A centralized personal compendium of computer science resources.
 
 ### OS
 * [Choosing between FreeBSD and OpenBSD](https://unixsheikh.com/articles/choosing-between-openbsd-and-freebsd.html): Reasoning behind choosing between FreeBSD or OpenBSD [_Unix Sheikh_]
+
+## Unix
+* [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/): A list of _modern_ Unix command line tools, to improve on classic Unix command line tools. [_Julia Evans_]
 
 ## Observability
 * [Logging v. instrumentation](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html): Difference between logging and instrumentation, best practices for both. [_Peter Bourgon_]
