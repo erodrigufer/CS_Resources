@@ -31,7 +31,6 @@ A centralized personal compendium of computer science resources.
 * [Databases](#databases-1)
 	- [SQL](#sql)
 * [SaaS/Business](#saasbusiness)
-	- [Pricing](#pricing)
 * [Security](#security-1)
 	- [Malware](#malware)
 * [Academia](#academia)
@@ -109,7 +108,7 @@ A centralized personal compendium of computer science resources.
 * [Animate SQL](https://animatesql.com/): Animated web resource to better the functionality of SQL commands in a graphical way.
 
 ## SaaS/Business
-### Pricing
+* [An Engineer's view of venture capital](https://spectrum.ieee.org/amp/an-engineers-view-of-venture-capitalists-2650252508): The pitfalls that an engineer will encounter while seeking VC money for a start-up. [_Nick Tredennick_]
 * [Pricing low touch SaaS](https://stripe.com/en-gb-de/atlas/guides/saas-pricing)
 * [Profit sharing](https://paul.copplest.one/blog/profit-sharing.html): A rather unorthodox approach to profit sharing in a private company. [_Paul Copplestone_]
 
