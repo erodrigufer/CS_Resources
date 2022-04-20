@@ -30,6 +30,7 @@ A centralized personal compendium of computer science resources.
 * [Concurrency](#concurrency)
 * [Databases](#databases-1)
 	- [SQL](#sql)
+	- [MongoDB](#mongodb)
 * [SaaS/Business](#saasbusiness)
 * [Security](#security-1)
 	- [Malware](#malware)
@@ -106,6 +107,9 @@ A centralized personal compendium of computer science resources.
 
 ### SQL
 * [Animate SQL](https://animatesql.com/): Animated web resource to better the functionality of SQL commands in a graphical way.
+
+### MongoDB
+* [Securing MongoDB](https://www.vultr.com/docs/securing-mongodb): Basic configuration steps to secure a newly started MongoDB instance. [_Vultr Docs_]
 
 ## SaaS/Business
 * [An Engineer's view of venture capital](https://spectrum.ieee.org/amp/an-engineers-view-of-venture-capitalists-2650252508): The pitfalls that an engineer will encounter while seeking VC money for a start-up. [_Nick Tredennick_]
