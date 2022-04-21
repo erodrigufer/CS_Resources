@@ -60,7 +60,7 @@ A centralized personal compendium of computer science resources.
 * [Why Japanese web design is so... different](https://randomwire.com/why-japanese-web-design-is-so-different/): An explanation about the cultural differences and the socio-technological context that makes some big Japanese web sites feel so different, like if they stayed behind within the web design paradigms of the 90s.
 
 ## FreeBSD sysadmin
-
+* [Personal FreeBSD sysadmin cheatsheet](/FreeBSDSysadmin.md)
 
 ## General sysadmin
 * [Cron best practices](https://blog.sanctum.geek.nz/cron-best-practices/): Best practices to manage and setup cronjobs in a secure way, e.g. periodically monitoring a web service with a cron job.
