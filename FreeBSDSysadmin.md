@@ -1,4 +1,14 @@
 # FreeBSD Sysadmin Compendium
+## Table of contents
+<!-- vim-markdown-toc GFM -->
+
+* [Daemons](#daemons)
+* [Monitoring](#monitoring)
+* [Networking](#networking)
+* [SSH](#ssh)
+* [Databases](#databases)
+
+<!-- vim-markdown-toc -->
 
 ## Daemons
 * [Supervised FreeBSD rc.d script for a Go daemon](https://redbyte.eu/en/blog/supervised-freebsd-init-script-for-go-deamon/): Run a go program as a supervised daemon in FreeBSD.
