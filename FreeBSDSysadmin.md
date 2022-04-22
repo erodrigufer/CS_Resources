@@ -2,6 +2,7 @@
 ## Table of contents
 <!-- vim-markdown-toc GFM -->
 
+* [General sysadmin](#general-sysadmin)
 * [Daemons](#daemons)
 * [Monitoring](#monitoring)
 * [Networking](#networking)
@@ -9,6 +10,9 @@
 * [Databases](#databases)
 
 <!-- vim-markdown-toc -->
+
+## General sysadmin
+* [Create a sudo user on FreeBSD](https://www.vultr.com/docs/create-a-sudo-user-on-freebsd): The real question is if it is even secured to install sudo on FreeBSD?
 
 ## Daemons
 * [Supervised FreeBSD rc.d script for a Go daemon](https://redbyte.eu/en/blog/supervised-freebsd-init-script-for-go-deamon/): Run a go program as a supervised daemon in FreeBSD.
