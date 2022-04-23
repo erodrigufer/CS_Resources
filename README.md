@@ -56,9 +56,9 @@ A centralized personal compendium of computer science resources.
 * [Do login forms need tokens against CSRF attacks?](https://stackoverflow.com/questions/6412813/do-login-forms-need-tokens-against-csrf-attacks): From StackOverflow, is it necessary to protect login forms against CSRF (Cross-site request forgery) attacks?
 
 ## Design
-### UI
+### Web design
 * [Why Japanese web design is so... different](https://randomwire.com/why-japanese-web-design-is-so-different/): An explanation about the cultural differences and the socio-technological context that makes some big Japanese web sites feel so different, like if they stayed behind within the web design paradigms of the 90s.
-
+* [DALL-E 2 and the origin of vibe shift](https://every.to/divinations/dall-e-2-and-the-origin-of-vibe-shifts): How and why webdesign vibes shift over time. 
 ## FreeBSD sysadmin
 * [Personal FreeBSD sysadmin cheatsheet](/FreeBSDSysadmin.md)
 
