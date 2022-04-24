@@ -14,7 +14,7 @@ A centralized personal compendium of computer science resources.
 	- [HTTP(S)](#https)
 	- [Security](#security)
 * [Design](#design)
-	- [UI](#ui)
+	- [Web design](#web-design)
 * [FreeBSD sysadmin](#freebsd-sysadmin)
 * [General sysadmin](#general-sysadmin)
 	- [Networking](#networking)
@@ -59,6 +59,8 @@ A centralized personal compendium of computer science resources.
 ### Web design
 * [Why Japanese web design is so... different](https://randomwire.com/why-japanese-web-design-is-so-different/): An explanation about the cultural differences and the socio-technological context that makes some big Japanese web sites feel so different, like if they stayed behind within the web design paradigms of the 90s.
 * [DALL-E 2 and the origin of vibe shift](https://every.to/divinations/dall-e-2-and-the-origin-of-vibe-shifts): How and why webdesign vibes shift over time. 
+* [How stripe designs beautiful websites](https://leerob.io/blog/how-stripe-designs-beautiful-websites): Design principles taken from the design-centric Stripe webpages.
+
 ## FreeBSD sysadmin
 * [Personal FreeBSD sysadmin cheatsheet](/FreeBSDSysadmin.md)
 
