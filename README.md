@@ -11,6 +11,7 @@ A centralized personal compendium of computer science resources.
 	- [Regex](#regex)
 * [Web development](#web-development)
 	- [HTML](#html)
+	- [CSS](#css)
 	- [HTTP(S)](#https)
 	- [Security](#security)
 * [Design](#design)
@@ -48,6 +49,9 @@ A centralized personal compendium of computer science resources.
 ## Web development
 ### HTML
 * [HTML cheatsheet](https://paul.copplest.one/knowledge/tech/html-cheatsheet.html): Paul Copplestone's HTML cheatsheet [_Paul Copplestone_]
+
+### CSS
+* [Learning CSS animations by example](https://leerob.io/blog/learning-css-animations-by-example): An example implementation of a CSS animation.
 
 ### HTTP(S)
 * [Conditional HTTP GET: The fastest requests need no response body](https://ieftimov.com/post/conditional-http-get-fastest-requests-need-no-response-body/): Handling server content update with ETags and Last-Modified _header fields_ in order to generate user-agent content caching [_Ilija Eftimov_]
