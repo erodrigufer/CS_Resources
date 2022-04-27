@@ -99,6 +99,7 @@ A centralized personal compendium of computer science resources.
 
 ### MongoDB
 * [Securing MongoDB](https://www.vultr.com/docs/securing-mongodb): Basic configuration steps to secure a newly started MongoDB instance. [_Vultr Docs_]
+* [Beginners questions about MongoDB (StackOverflow)](https://stackoverflow.com/questions/3490272/some-beginners-questions-about-mongodb): Why are there an admin and a local collections and some very simple queries.
 
 ## SaaS/Business
 * [An Engineer's view of venture capital](https://spectrum.ieee.org/amp/an-engineers-view-of-venture-capitalists-2650252508): The pitfalls that an engineer will encounter while seeking VC money for a start-up. [_Nick Tredennick_]
