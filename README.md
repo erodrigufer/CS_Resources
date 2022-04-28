@@ -52,6 +52,7 @@ A centralized personal compendium of computer science resources.
 
 ### CSS
 * [Learning CSS animations by example](https://leerob.io/blog/learning-css-animations-by-example): An example implementation of a CSS animation.
+* [CSS 'text-shadow' examples](https://www.sitepoint.com/moonlighting-css-text-shadow/): `text-shadow` property examples for CSS text styling.
 
 ### HTTP(S)
 * [Conditional HTTP GET: The fastest requests need no response body](https://ieftimov.com/post/conditional-http-get-fastest-requests-need-no-response-body/): Handling server content update with ETags and Last-Modified _header fields_ in order to generate user-agent content caching [_Ilija Eftimov_]
