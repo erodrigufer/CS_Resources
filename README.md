@@ -58,6 +58,7 @@ A centralized personal compendium of computer science resources.
 * [Decrypting your own HTTPS traffic with Wireshark](https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/): Properly configuring Wireshark with the keys to decrypt local HTTPS traffic fow debugging and hacking
 ### Security
 * [Do login forms need tokens against CSRF attacks?](https://stackoverflow.com/questions/6412813/do-login-forms-need-tokens-against-csrf-attacks): From StackOverflow, is it necessary to protect login forms against CSRF (Cross-site request forgery) attacks?
+* [Exotic HTTP Headers](https://peteris.rocks/blog/exotic-http-headers/): In-depth explanation of HTTP Headers used to prevent all kinds of attacks XSS, Clickbaiting, etc.
 
 ## Design
 ### Web design
