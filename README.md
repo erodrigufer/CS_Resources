@@ -19,7 +19,7 @@ A centralized personal compendium of computer science resources.
 * [FreeBSD sysadmin](#freebsd-sysadmin)
 * [General sysadmin](#general-sysadmin)
 	- [Networking](#networking)
-	- [Containers](#containers)
+	- [Docker](#docker)
 	- [OS](#os)
 * [Unix](#unix)
 * [Observability](#observability)
@@ -78,8 +78,9 @@ A centralized personal compendium of computer science resources.
 ### Networking
 * [Using UFW as a Firewall](https://landchad.net/ufw): Very minimalistic/simple guide to configure UFW on a server. [_Luke Smith_]
 
-### Containers
+### Docker
 * [Docker cheatsheet](https://paul.copplest.one/knowledge/tech/docker.html): Docker cheatsheet [_Paul Copplestone_]
+* [Docker -t flag (StackOverflow)](https://stackoverflow.com/questions/30137135/confused-about-docker-t-option-to-allocate-a-pseudo-tty): An explanation about the `-t` flag in Docker.
 
 ### OS
 * [Choosing between FreeBSD and OpenBSD](https://unixsheikh.com/articles/choosing-between-openbsd-and-freebsd.html): Reasoning behind choosing between FreeBSD or OpenBSD [_Unix Sheikh_]
