@@ -20,6 +20,7 @@
 
 ## Monitoring
 * [FreeBSD Install Logwatch Tool For Log Analysis and Monitoring](https://www.cyberciti.biz/faq/freebsd-unix-log-analyzer-configuration/): Tutorial on how to install and setup _Logwatch_ to get daily logs' analysis through emails.
+* [Explaining top(1) on FreeBSD](https://klarasystems.com/articles/explaining-top1-on-freebsd/): Explaining the output of `top(1)` on FreeBSD.
 
 ## Networking
 * [Check open ports on FreeBSD](https://linuxhint.com/check-open-ports-freebsd/): _sockstat_ command
