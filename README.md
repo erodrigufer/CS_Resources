@@ -79,6 +79,7 @@ A centralized personal compendium of computer science resources.
 * [Using UFW as a Firewall](https://landchad.net/ufw): Very minimalistic/simple guide to configure UFW on a server. [_Luke Smith_]
 
 ### Docker
+* [Personal Docker cheatsheet](/DockerCheatsheet.md)
 * [Docker cheatsheet](https://paul.copplest.one/knowledge/tech/docker.html): Docker cheatsheet [_Paul Copplestone_]
 * [Docker -t flag (StackOverflow)](https://stackoverflow.com/questions/30137135/confused-about-docker-t-option-to-allocate-a-pseudo-tty): An explanation about the `-t` flag in Docker.
 
