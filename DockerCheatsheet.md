@@ -72,10 +72,16 @@ docker network ls
 docker network create <NAME_NETWORK>
 ```
 
+* Delete a Docker network
+```bash
+docker network rm <NAME OF NETWORK>
+```
+
 ## Run command
 * Important flags for `docker run` command:
 ```bash
 --net:		Specify the network to which the container will be connected
+--rm:		Remove container automatically after it has been stopped.
 
 ```
 
