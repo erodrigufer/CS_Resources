@@ -36,6 +36,7 @@ A centralized personal compendium of computer science resources.
 ## Software engineering
 ### Design patterns
 * [Why is Global State so Evil?](https://softwareengineering.stackexchange.com/questions/148108/why-is-global-state-so-evil): A discussion with in-depth argumentation against writing code/functions that depend on _global state_. 
+* [Python Design Patterns](https://python-patterns.guide/): This site examines the old patterns in the context of a modern dynamic programming language in which classes and functions are first-class objects, to see which patterns are still useful and which ones disappear
 
 ### Developer productivity
 * [Fire and motion](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/): The struggle with developer productivity in a nutshell. [_Joel Spolsky_]
