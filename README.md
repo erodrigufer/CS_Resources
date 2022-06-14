@@ -29,6 +29,7 @@ A centralized personal compendium of computer science resources.
 	- [MongoDB](#mongodb)
 * [SaaS/Business](#saasbusiness)
 * [Security](#security-1)
+	- [Random Number Generators](#random-number-generators)
 	- [Malware](#malware)
 * [Academia](#academia)
 
@@ -112,6 +113,8 @@ A centralized personal compendium of computer science resources.
 * [Profit sharing](https://paul.copplest.one/blog/profit-sharing.html): A rather unorthodox approach to profit sharing in a private company. [_Paul Copplestone_]
 
 ## Security
+### Random Number Generators
+* [Banana Random Number Generator (Part 1)](https://www.valerionappi.it/brng-en/) [Part2](https://www.valerionappi.it/chi-squared/): A great introduction into the basics of RNGs, trying to verify true randomness in some numbers, Chi-Delta, etc. [_Valerio Nappi_]
 ### Malware
 * [Malware targetting AWS Lambda](https://www.cadosecurity.com/cado-discovers-denonia-the-first-malware-specifically-targeting-lambda/): A malware written in Go that targets AWS Lambda functions.
 
