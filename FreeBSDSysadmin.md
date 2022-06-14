@@ -13,6 +13,7 @@
 
 ## General sysadmin
 * [Create a sudo user on FreeBSD](https://www.vultr.com/docs/create-a-sudo-user-on-freebsd): The real question is if it is even secured to install sudo on FreeBSD?
+* [Explanation of colon operator in shell scripts](https://stackoverflow.com/questions/7444504/explanation-of-colon-operator-in-foo-value): Understanding the `: ${value}` syntax in FreeBSD shell scripts.
 
 ## Daemons
 * [Supervised FreeBSD rc.d script for a Go daemon](https://redbyte.eu/en/blog/supervised-freebsd-init-script-for-go-deamon/): Run a go program as a supervised daemon in FreeBSD.
