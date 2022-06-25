@@ -18,6 +18,7 @@
 ## Daemons
 * [Supervised FreeBSD rc.d script for a Go daemon](https://redbyte.eu/en/blog/supervised-freebsd-init-script-for-go-deamon/): Run a go program as a supervised daemon in FreeBSD.
 * [Practical rc.d scripting in BSD](https://docs.freebsd.org/en/articles/rc-scripting/index.html)
+* [Write and auto-deploy daemons in FreeBSD](https://dev.to/zilti/updated-write-and-auto-deploy-daemons-on-freebsd-k7i): How to write and auto-deploy daemons using the `daemon(8)` FreeBSD functionality and rc.
 
 ## Monitoring
 * [FreeBSD Install Logwatch Tool For Log Analysis and Monitoring](https://www.cyberciti.biz/faq/freebsd-unix-log-analyzer-configuration/): Tutorial on how to install and setup _Logwatch_ to get daily logs' analysis through emails.
