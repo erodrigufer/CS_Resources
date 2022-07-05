@@ -7,6 +7,7 @@
 * [Daemons](#daemons)
 * [Monitoring](#monitoring)
 * [Networking](#networking)
+* [pf (Packet Filter)](#pf-packet-filter)
 * [SSH](#ssh)
 * [Databases](#databases)
 
@@ -30,6 +31,9 @@
 
 ## Networking
 * [Check open ports on FreeBSD](https://linuxhint.com/check-open-ports-freebsd/): _sockstat_ command
+
+## pf (Packet Filter)
+* [OpenBSD Handbook pf cheat sheet](https://www.openbsdhandbook.com/pf/cheat_sheet/): OpenBSD Handbook section dedicated to pf.
 
 ## SSH
 * [How to configure ssh key authentication on FreeBSD](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-freebsd-server)
