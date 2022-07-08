@@ -1,7 +1,10 @@
+# pf
+## Table of contents
 <!-- vim-markdown-toc GFM -->
 
 * [References](#references)
 * [Commands](#commands)
+	- [Logging](#logging)
 	- [Tables](#tables)
 
 <!-- vim-markdown-toc -->
@@ -10,6 +13,33 @@
 * [OpenBSD Handbook of pf](https://www.openbsdhandbook.com/pf/).
 
 ## Commands
+
+### Logging
+* [OpenBSD Handbook of pf logging section](https://www.openbsdhandbook.com/pf/logging/): The section regarding logging of the OpenBSD pf Handbook is specially useful.
+
+* Show current logs at `/var/log/pflog`:
+```bash
+tcpdump -n -e -ttt -r /var/log/pflog
+```
+The `tcpdump` command accepts arguments to filter the output.
+
+* Show only packets that were **blocked**:
+```bash
+tcpdump -n -e -ttt -r /var/log/pflog action block
+
+* action: block | pass
+```
+
+* Show only packets at a given **port**:
+```bash
+tcpdump -n -e -ttt -r /var/log/pflog port 22
+
+```
+
+* Show packets being processed at a pflog interface in real-time:
+```bash
+tcpdump -n -e -ttt -i pflog0
+```
 
 ### Tables
 * Show members of a table:
