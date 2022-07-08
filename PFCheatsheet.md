@@ -5,6 +5,7 @@
 * [References](#references)
 * [Commands](#commands)
 	- [Logging](#logging)
+	- [Rules](#rules)
 	- [Tables](#tables)
 
 <!-- vim-markdown-toc -->
@@ -47,6 +48,14 @@ tcpdump -n -e -ttt -r /var/log/pflog action pass and port 27017
 * Show packets being processed at a pflog interface in real-time:
 ```bash
 tcpdump -n -e -ttt -i pflog0
+```
+
+### Rules
+* Show current active rules with all possible information, e.g. rule-number (-vv):
+```bash
+pfctl -vvsr
+
+* -sr : show rules
 ```
 
 ### Tables
