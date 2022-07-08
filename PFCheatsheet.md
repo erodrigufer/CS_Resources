@@ -39,10 +39,11 @@ tcpdump -n -e -ttt -r /var/log/pflog port 22
 
 * Show attempts of an **attacker** trying to brute-force a service at a particular port:
 ```bash
-tcpdump -n -e -ttt -r /var/log/pflog action pass and port 27017
+tcpdump -n -e -ttt -r /var/log/pflog action pass and port 27017 and inbound
 
 * action : Pass to show packets that were not blocked by pf.
 * port : Show only attempts on port 27017 (MongoDB).
+* inbound: Only packets getting into the interface (pass in) will be displayed.
 ```
 
 * Show packets being processed at a pflog interface in real-time:
