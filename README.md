@@ -10,6 +10,7 @@ A centralized personal compendium of computer science resources.
 	- [Git](#git)
 	- [Regex](#regex)
 * [Web development](#web-development)
+	- [REST APIs](#rest-apis)
 	- [HTML](#html)
 	- [CSS](#css)
 	- [HTTP(S)](#https)
@@ -48,6 +49,9 @@ A centralized personal compendium of computer science resources.
 * [Regex cheatsheet](https://paul.copplest.one/knowledge/tech/regex.html): Paul Copplestone's **regex cheatsheet** [_Paul Copplestone_]
 
 ## Web development
+### REST APIs
+* [What RESTful actually means](https://codewords.recurse.com/issues/five/what-restful-actually-means): A meaningful description of what characterizes a RESTful application with links for further learning.
+
 ### HTML
 * [HTML cheatsheet](https://paul.copplest.one/knowledge/tech/html-cheatsheet.html): Paul Copplestone's HTML cheatsheet [_Paul Copplestone_]
 
