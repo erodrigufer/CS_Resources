@@ -93,6 +93,7 @@ A centralized personal compendium of computer science resources.
 
 ## Unix
 * [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/): A list of _modern_ Unix command line tools, to improve on classic Unix command line tools. [_Julia Evans_]
+* [Filesystem Hierarchy Standard](https://www.pathname.com/fhs/pub/fhs-2.3.html): Understanding the traditional Unix way of using the filesystem hierarchy.
 
 ## Observability
 * [Logging v. instrumentation](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html): Difference between logging and instrumentation, best practices for both. [_Peter Bourgon_]
