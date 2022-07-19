@@ -51,6 +51,7 @@ A centralized personal compendium of computer science resources.
 ## Web development
 ### REST APIs
 * [What RESTful actually means](https://codewords.recurse.com/issues/five/what-restful-actually-means): A meaningful description of what characterizes a RESTful application with links for further learning.
+* [How did REST come to mean the opposite of REST](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/): A very good description of what really is a REST API (which MUST use hypermedia in its interface). It describes all the required characteristics of a true REST API and states that JSON APIs are definitely NOT REST APIs.
 
 ### HTML
 * [HTML cheatsheet](https://paul.copplest.one/knowledge/tech/html-cheatsheet.html): Paul Copplestone's HTML cheatsheet [_Paul Copplestone_]
