@@ -49,6 +49,8 @@ A centralized personal compendium of computer science resources.
 * [Regex cheatsheet](https://paul.copplest.one/knowledge/tech/regex.html): Paul Copplestone's **regex cheatsheet** [_Paul Copplestone_]
 
 ## Web development
+* [Move over JavaScript: Back-end languages are coming to the front-end](https://github.com/readme/featured/server-side-languages-for-front-end): Overview of different approaches to implement server-side rendering for complex web UIs.
+
 ### REST APIs
 * [What RESTful actually means](https://codewords.recurse.com/issues/five/what-restful-actually-means): A meaningful description of what characterizes a RESTful application with links for further learning.
 * [How did REST come to mean the opposite of REST](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/): A very good description of what really is a REST API (which MUST use hypermedia in its interface). It describes all the required characteristics of a true REST API and states that JSON APIs are definitely NOT REST APIs.
@@ -63,6 +65,7 @@ A centralized personal compendium of computer science resources.
 ### HTTP(S)
 * [Conditional HTTP GET: The fastest requests need no response body](https://ieftimov.com/post/conditional-http-get-fastest-requests-need-no-response-body/): Handling server content update with ETags and Last-Modified _header fields_ in order to generate user-agent content caching [_Ilija Eftimov_]
 * [Decrypting your own HTTPS traffic with Wireshark](https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/): Properly configuring Wireshark with the keys to decrypt local HTTPS traffic fow debugging and hacking
+
 ### Security
 * [Do login forms need tokens against CSRF attacks?](https://stackoverflow.com/questions/6412813/do-login-forms-need-tokens-against-csrf-attacks): From StackOverflow, is it necessary to protect login forms against CSRF (Cross-site request forgery) attacks?
 * [Exotic HTTP Headers](https://peteris.rocks/blog/exotic-http-headers/): In-depth explanation of HTTP Headers used to prevent all kinds of attacks XSS, Clickbaiting, etc.
