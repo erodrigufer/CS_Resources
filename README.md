@@ -33,6 +33,7 @@ A centralized personal compendium of computer science resources.
 	- [Random Number Generators](#random-number-generators)
 	- [Malware](#malware)
 * [Academia](#academia)
+* [Misc](#misc)
 
 <!-- vim-markdown-toc -->
 ## Software engineering
@@ -129,3 +130,6 @@ A centralized personal compendium of computer science resources.
 
 ## Academia
 * [You should be reading academic CS papers](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/): A Stackoverflow blog post recommending resources to get access to good academic computer science papers. [_Stackoverflow Blog_]
+
+## Misc
+* [How to become a full-time creator as a software engineer](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/): Different approaches to move from being an employee to starting as a 'creator'/self-employed. [_Gergely Orosz_]
