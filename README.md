@@ -19,6 +19,7 @@ A centralized personal compendium of computer science resources.
 	- [Web design](#web-design)
 * [FreeBSD sysadmin](#freebsd-sysadmin)
 * [General sysadmin](#general-sysadmin)
+* [Site reliability](#site-reliability)
 	- [Networking](#networking)
 	- [Docker](#docker)
 	- [OS](#os)
@@ -84,6 +85,9 @@ A centralized personal compendium of computer science resources.
 * [Cron best practices](https://blog.sanctum.geek.nz/cron-best-practices/): Best practices to manage and setup cronjobs in a secure way, e.g. periodically monitoring a web service with a cron job.
 * [Land chad's guide to setting up a webserver](https://landchad.net/domain): Step by step guide by Luke Smith on how to setup a server, its domain, firewall, etc... [_Luke Smith_]
 * [htop explained](https://peteris.rocks/blog/htop/): An in-depth guide into working with `htop`/`top`.
+
+## Site reliability
+* [Implementing health checks](https://aws.amazon.com/builders-library/implementing-health-checks/): An article about the reasoning behind implementing health checks and how they are implemented at AWS.
 
 ### Networking
 * [Using UFW as a Firewall](https://landchad.net/ufw): Very minimalistic/simple guide to configure UFW on a server. [_Luke Smith_]
