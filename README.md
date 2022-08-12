@@ -19,10 +19,10 @@ A centralized personal compendium of computer science resources.
 	- [Web design](#web-design)
 * [FreeBSD sysadmin](#freebsd-sysadmin)
 * [General sysadmin](#general-sysadmin)
-* [Site reliability](#site-reliability)
 	- [Networking](#networking)
 	- [Docker](#docker)
 	- [OS](#os)
+* [Site reliability](#site-reliability)
 * [Unix](#unix)
 * [Observability](#observability)
 * [Concurrency](#concurrency)
@@ -86,9 +86,6 @@ A centralized personal compendium of computer science resources.
 * [Land chad's guide to setting up a webserver](https://landchad.net/domain): Step by step guide by Luke Smith on how to setup a server, its domain, firewall, etc... [_Luke Smith_]
 * [htop explained](https://peteris.rocks/blog/htop/): An in-depth guide into working with `htop`/`top`.
 
-## Site reliability
-* [Implementing health checks](https://aws.amazon.com/builders-library/implementing-health-checks/): An article about the reasoning behind implementing health checks and how they are implemented at AWS.
-
 ### Networking
 * [Using UFW as a Firewall](https://landchad.net/ufw): Very minimalistic/simple guide to configure UFW on a server. [_Luke Smith_]
 
@@ -99,6 +96,9 @@ A centralized personal compendium of computer science resources.
 
 ### OS
 * [Choosing between FreeBSD and OpenBSD](https://unixsheikh.com/articles/choosing-between-openbsd-and-freebsd.html): Reasoning behind choosing between FreeBSD or OpenBSD [_Unix Sheikh_]
+
+## Site reliability
+* [Implementing health checks](https://aws.amazon.com/builders-library/implementing-health-checks/): An article about the reasoning behind implementing health checks and how they are implemented at AWS.
 
 ## Unix
 * [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/): A list of _modern_ Unix command line tools, to improve on classic Unix command line tools. [_Julia Evans_]
