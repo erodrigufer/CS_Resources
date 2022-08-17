@@ -99,6 +99,7 @@ A centralized personal compendium of computer science resources.
 
 ## Site reliability
 * [Implementing health checks](https://aws.amazon.com/builders-library/implementing-health-checks/): An article about the reasoning behind implementing health checks and how they are implemented at AWS.
+* [Monitoring small web services](https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/): A guide to implement uncomplicated monitoring for tiny not-critical webservices. [_Julia Evans_]
 
 ## Unix
 * [A list of new(ish) command line tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/): A list of _modern_ Unix command line tools, to improve on classic Unix command line tools. [_Julia Evans_]
