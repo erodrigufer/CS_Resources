@@ -5,6 +5,7 @@
 
 * [Release management](#release-management)
 	- [Upgrading to a major release](#upgrading-to-a-major-release)
+	- [Periodically downloading patches with cron](#periodically-downloading-patches-with-cron)
 
 <!-- vim-markdown-toc -->
 
@@ -16,3 +17,6 @@
 4. `freebsd-update install` : After rebooting the system (which properly finishes the installation of a new kernel), continue upgrading userland programs.
 5. `freebsd-update install` : Remove old shared libraries (check _Absolute FreeBSD Chapter 18 for a more detail information about this configuration step_). 
 6. `reboot` : Reboot one final time to check that everything works properly and the system can be cleanly initialized after a reboot.
+
+### Periodically downloading patches with cron
+1. Add the command `freebsd-update cron` to the crontab at a specific hour with a given periodicity. This will periodically try to `fetch` patches for the current FreeBSD major release and will notify if a fetch successfully downloaded new patches.
