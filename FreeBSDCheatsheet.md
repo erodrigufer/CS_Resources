@@ -15,7 +15,7 @@
 2. `freebsd-update install` : This command will actually upgrade the system.
 3. `reboot` : Reboot the host to properly install the kernel. After installing the new kernel, we can again proceed with an installation of userland features.
 4. `freebsd-update install` : After rebooting the system (which properly finishes the installation of a new kernel), continue upgrading userland programs.
-5. `freebsd-update install` : Remove old shared libraries (check _Absolute FreeBSD Chapter 18 for a more detail information about this configuration step_). 
+5. `freebsd-update install` : Remove old shared libraries (check _Absolute FreeBSD Chapter 18 for more detail information about this configuration step_). 
 6. `reboot` : Reboot one final time to check that everything works properly and the system can be cleanly initialized after a reboot.
 
 ### Periodically downloading patches with cron
