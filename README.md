@@ -88,6 +88,7 @@ A centralized personal compendium of computer science resources.
 
 ### Networking
 * [Using UFW as a Firewall](https://landchad.net/ufw): Very minimalistic/simple guide to configure UFW on a server. [_Luke Smith_]
+* [Firewalld in CentOS 8](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-8): Configuring firewalld in CentOS 8. [_DigitalOcean_]
 
 ### Docker
 * [Personal Docker cheatsheet](/DockerCheatsheet.md)
