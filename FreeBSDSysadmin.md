@@ -31,6 +31,7 @@
 
 ## Networking
 * [Check open ports on FreeBSD](https://linuxhint.com/check-open-ports-freebsd/): _sockstat_ command
+* [FreeBSD: Route jail traffic through VPN](https://www.davd.io/freebsd-route-jail-traffic-through-vpn/): A guide on how to set the traffic of a jail through a VPN. 
 
 ## pf (Packet Filter)
 * [My own pf guide/Cheat sheet](/PFCheatsheet.md)
