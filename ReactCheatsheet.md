@@ -1,5 +1,6 @@
 # React Cheatsheet
 
+## Table of contents
 <!-- vim-markdown-toc GFM -->
 
 * [Start a React project](#start-a-react-project)
