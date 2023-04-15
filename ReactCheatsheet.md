@@ -30,3 +30,5 @@ npm install
 npm run dev
 ```
 
+Use this command whenever it is required to have hot-reloading of a React project while developing.
+
