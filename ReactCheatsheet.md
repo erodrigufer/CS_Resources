@@ -4,6 +4,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Start a React project](#start-a-react-project)
+* [Functional programming](#functional-programming)
 
 <!-- vim-markdown-toc -->
 
@@ -32,3 +33,6 @@ npm run dev
 
 Use this command whenever it is required to have hot-reloading of a React project while developing.
 
+## Functional programming
+1. `map` 
+2. `filter`
