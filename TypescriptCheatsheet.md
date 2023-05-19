@@ -152,5 +152,3 @@ let a: number | null = null;
 
 let b: number = a ?? 40
 ```
-customer?.[0]
-```
