@@ -1,10 +1,12 @@
 # React Cheatsheet
 
 ## Table of contents
+
 <!-- vim-markdown-toc GFM -->
 
-* [Start a React project](#start-a-react-project)
-* [Functional programming](#functional-programming)
+- [Start a React project](#start-a-react-project)
+- [Functional programming](#functional-programming)
+- [State management](#state-management)
 
 <!-- vim-markdown-toc -->
 
@@ -21,7 +23,7 @@ Name the project, select React as the framework and Typescript as the language.
 `vite` will create the whole scaffolding for the React project and will compel you to install the require packages for the project.
 Get into the directory created for the project and run:
 
-``` 
+```
 npm install
 ```
 
@@ -34,5 +36,11 @@ npm run dev
 Use this command whenever it is required to have hot-reloading of a React project while developing.
 
 ## Functional programming
-1. `map` 
+
+1. `map`
 2. `filter`
+3. `reduce`
+
+## State management
+
+- [Intro to using zustand with React](https://refine.dev/blog/zustand-react-state/)
