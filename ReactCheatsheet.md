@@ -7,6 +7,7 @@
 - [Start a React project](#start-a-react-project)
 - [Functional programming](#functional-programming)
 - [State management](#state-management)
+- [Testing](#testing)
 
 <!-- vim-markdown-toc -->
 
@@ -44,3 +45,7 @@ Use this command whenever it is required to have hot-reloading of a React projec
 ## State management
 
 - [Intro to using zustand with React](https://refine.dev/blog/zustand-react-state/)
+
+## Testing
+
+- [Mocking hooks with Jest](https://www.bitovi.com/blog/mocking-modules-in-jest-tests)
