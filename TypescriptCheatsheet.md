@@ -13,7 +13,7 @@
   - [Optional property access operator](#optional-property-access-operator)
   - [Optional element access operator](#optional-element-access-operator)
   - [Optional call](#optional-call)
-- [Nullish coaelscing operator](#nullish-coaelscing-operator)
+- [Nullish coalescing operator](#nullish-coalescing-operator)
 - [Destructuring](#destructuring)
 
 <!-- vim-markdown-toc -->
@@ -142,7 +142,7 @@ let f: () => number = () => {
 f?.();
 ```
 
-## Nullish coaelscing operator
+## Nullish coalescing operator
 
 th `??` if the previous value is **NOT** _null_ or _undefined_, we use the previous value, otherwise the value to the right of `??` is used.
 
