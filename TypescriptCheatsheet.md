@@ -144,7 +144,8 @@ f?.();
 
 ## Nullish coalescing operator
 
-th `??` if the previous value is **NOT** _null_ or _undefined_, we use the previous value, otherwise the value to the right of `??` is used.
+If the previous value of the `??` operator is **NOT** `null` or `undefined`, we use the previous value, otherwise the value to the right of `??` is used.
+In other words, it is very useful to set a default value (value on the right) in case no valid value is found.
 
 ```ts
 let a: number | null = null;
