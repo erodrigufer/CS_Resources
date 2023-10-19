@@ -7,6 +7,7 @@
 - [tsc commands](#tsc-commands)
 - [tsconfig file](#tsconfig-file)
 - [Debugging ts](#debugging-ts)
+- [Tooling](#tooling)
 - [Functions](#functions)
 - [Type alias](#type-alias)
   - [Optional chaining](#optional-chaining)
@@ -53,6 +54,10 @@ tsc --init
 2. A `.js.map` will be created after compilation in the `outDir`.
 3. Create a `launch.json` file in VSC.
    - Add the parameter `"preLaunchTask": "tsc: build - tsconfig.json",` above `outputFiles` in the `launch.json` file. This will make the debugger use the appropriate config file.
+
+## Tooling
+
+- Problems with Yarn 3 and recognition of modules with neovim LSP: [solution](https://yarnpkg.com/getting-started/editor-sdks)
 
 ## Functions
 
